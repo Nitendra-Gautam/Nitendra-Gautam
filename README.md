@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nitendra-Gautam
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Python, Selenium, API 
+- 🌱 I’m currently learning ...Cypress & Java Script  
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... nitendrakumar.gautam@gmail.com
 
 <!---
 Nitendra-Gautam/Nitendra-Gautam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
